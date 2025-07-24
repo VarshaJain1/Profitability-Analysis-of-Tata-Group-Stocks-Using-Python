@@ -1,10 +1,6 @@
-Introduction
 Objective of the project
-
 Why Tata stock?
-
 What is profitability analysis in a stock market context?
-
 markdown
 Copy
 Edit
